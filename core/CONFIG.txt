@@ -1,8 +1,8 @@
 6H2J-N9EP-X5PZ-LEOC
 //your settings you can edit them form the CLI by hitting "$"
-523bfd9b8a673d722dcbb73be1b87acb
+your2capkey
 3333333333
 2cap
 500
 100
-https://discord.com/api/webhooks/1029747105935413339/MXh_rwCYeiFDNUZOWI8T6OjBKuArh_neZtRlD8BuB2H8-VNS-wHzS-auaMz1QEMZm9bD
+yourwebhook
