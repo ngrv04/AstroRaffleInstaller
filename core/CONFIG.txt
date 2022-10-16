@@ -1,8 +1,0 @@
-6H2J-N9EP-X5PZ-LEOC
-//your settings you can edit them form the CLI by hitting "$"
-your2capkey
-3333333333
-2cap
-500
-100
-yourwebhook
