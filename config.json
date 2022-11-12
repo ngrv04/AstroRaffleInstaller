@@ -1,9 +1,0 @@
-{
-  "Key": "",
-  "favorite": "2cap",
-  "TwocaptchaKey": "2capkey",
-  "CapmonsterKey": "Capmonsterkey",
-  "Retry_Delay": "200",
-  "entry_Delay": "500",
-  "Main_Webhook": "webhook"
-}
